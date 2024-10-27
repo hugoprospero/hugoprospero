@@ -10,9 +10,4 @@ Atualmente, tenho conhecimento em: </br></br>
   </a>
 </p>
 <hr style="border: 1px solid black;">
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7Bhugoprospero%7D/count.svg" /></p> 
-<br>
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
